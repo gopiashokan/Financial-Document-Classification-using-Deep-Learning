@@ -142,19 +142,19 @@ In conclusion, this project successfully addressed the challenge of classifying 
 
 <br />
 
-**Contributing**
+#### Contributing
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 <br />
 
-**License**
+#### License
 
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
 <br />
 
-**Contact**
+#### Contact
 
 📧 Email: gopiashokankiot@gmail.com 
 
