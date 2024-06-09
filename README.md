@@ -108,6 +108,8 @@ To use this project, follow these steps:
 
    - **Model Evaluation:** The developed model achieved commendable performance metrics, demonstrating its efficacy in classifying financial documents. The training accuracy of **0.96**, validation accuracy of **0.98**, and testing accuracy of **0.99** underscore the robustness and generalization capability of the trained model.
 
+![](https://github.com/gopiashokan/Financial-Document-Classification-using-Deep-Learning/blob/main/image/Accuracy_Loss_Graph.jpg)
+
 
 #### Model Deployment and Inference:
 
@@ -126,13 +128,13 @@ To use this project, follow these steps:
 <br />
 
 
-#### Conclusion: 
+**Conclusion:**
 
 In conclusion, this project successfully addressed the challenge of classifying financial documents using deep learning techniques. By employing methods such as data preprocessing, word embedding, data balancing, and model development, we achieved high accuracy in classifying financial documents. The developed Streamlit application provides a user-friendly interface for document classification, enhancing accessibility and usability.
 
 <br />
 
-#### References:
+**References:**
 
    - SpaCy Documentation: [https://spacy.io/usage](https://spacy.io/usage)
    - NLTK Documentation: [https://www.nltk.org/](https://www.nltk.org/)
@@ -142,19 +144,19 @@ In conclusion, this project successfully addressed the challenge of classifying 
 
 <br />
 
-#### Contributing
+**Contributing:**
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 <br />
 
-#### License
+**License:**
 
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
 <br />
 
-#### Contact
+**Contact:**
 
 📧 Email: gopiashokankiot@gmail.com 
 
