@@ -51,6 +51,7 @@ pip install pandas
 pip install streamlit
 pip install streamlit_extras
 pip install beautifulsoup4
+pip install wordcloud
 pip install matplotlib
 pip install scipy==1.12 
 pip install “https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1-py3-none-any.whl”
