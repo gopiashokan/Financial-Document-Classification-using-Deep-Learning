@@ -118,9 +118,8 @@ To use this project, follow these steps:
    - **Application Development:** A user-friendly Streamlit application was developed to allow users to upload new HTML documents for classification. The application provided a simple interface for users to interact with, displaying the predicted class and associated confidence scores. Additionally, the application showcased the uploaded document, enhancing the interpretability of the classification results.
 
    - **Deployment on Hugging Face:** The Streamlit application was deployed on the Hugging Face platform, enabling easy access for users to utilize the model for document classification. By deploying on Hugging Face, users can seamlessly upload new HTML documents, receive classification predictions, and visualize the document, enhancing the overall user experience.
-   
 
-<br />
+![](https://github.com/gopiashokan/Financial-Document-Classification-using-Deep-Learning/blob/main/image/Inference.JPG)
 
 🚀 **Application:** [https://huggingface.co/spaces/gopiashokan/Financial-Document-Classification](https://huggingface.co/spaces/gopiashokan/Financial-Document-Classification)
 
