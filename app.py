@@ -1,4 +1,3 @@
-import os
 import numpy as np
 import spacy
 import nltk
@@ -132,20 +131,13 @@ def prediction(input_file):
                     unsafe_allow_html=True)
     
     add_vertical_space(1)
-    st.markdown(f'<h3 style="text-align: center; color: green;">{predicted_class}</h3>', 
+    st.markdown(f'<h3 style="text-align: center; color: green;">Prdicted Class = {predicted_class}</h3>', 
                     unsafe_allow_html=True)
 
 
 
 # Streamlit Configuration Setup
 streamlit_config()
-
-
-# Check 'punkt' Already Downloaded or Not
-try:
-    nltk.data.find('tokenizers/punkt')
-except LookupError:
-    nltk.download('punkt')
     
 
 # File uploader to upload the HTML file
@@ -153,6 +145,16 @@ input_file = st.file_uploader('Upload an HTML file', type='html')
 
 if input_file is not None:
 
-    prediction(input_file)
+    try:
+        # Predict the Input_HTML_File_Class
+        prediction(input_file)
 
-    
+    except:
+        # Check 'punkt' Already Downloaded or Not
+        try:
+            nltk.data.find('tokenizers/punkt')
+        except LookupError:
+            nltk.download('punkt')
+
+        # Predict the Input_HTML_File_Class
+        prediction(input_file)
