@@ -120,7 +120,7 @@ To use this project, follow these steps:
 
    - **Deployment on Hugging Face:** The Streamlit application was deployed on the Hugging Face platform, enabling easy access for users to utilize the model for document classification. By deploying on Hugging Face, users can seamlessly upload new HTML documents, receive classification predictions, and visualize the document, enhancing the overall user experience.
 
-![](https://github.com/gopiashokan/Financial-Document-Classification-using-Deep-Learning/blob/main/image/Inference.jpg)
+![](https://github.com/gopiashokan/Financial-Document-Classification-using-Deep-Learning/blob/main/image/Inference.png)
 
 🚀 **Application:** [https://huggingface.co/spaces/gopiashokan/Financial-Document-Classification](https://huggingface.co/spaces/gopiashokan/Financial-Document-Classification)
 
