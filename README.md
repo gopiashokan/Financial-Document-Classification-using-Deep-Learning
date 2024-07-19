@@ -33,6 +33,7 @@ Managing and classifying financial documents such as Balance Sheets, Cash Flow s
 - Pandas
 - Matplotlib
 - Streamlit
+- Hugging Face
 
 <br />
 
