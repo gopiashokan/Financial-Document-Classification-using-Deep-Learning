@@ -107,7 +107,7 @@ To use this project, follow these steps:
 
    - **Optimization and Loss Function:** During model training, the Adam optimizer was utilized to minimize the SparseCategoricalCrossentropy loss function. This combination effectively optimized the model's parameters, enabling efficient convergence during the training process.
 
-   - **Model Evaluation:** The developed model achieved commendable performance metrics, demonstrating its efficacy in classifying financial documents. The training accuracy of **0.96**, validation accuracy of **0.98**, and testing accuracy of **0.99** underscore the robustness and generalization capability of the trained model.
+   - **Model Evaluation:** The developed model achieved commendable performance metrics, demonstrating its efficacy in classifying financial documents. Model achieved an impressive accuracy of **96.2%**, providing the robustness and generalization capability of the trained model.
 
 ![](https://github.com/gopiashokan/Financial-Document-Classification-using-Deep-Learning/blob/main/image/Accuracy_Loss_Graph.jpg)
 
